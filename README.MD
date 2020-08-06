@@ -52,6 +52,10 @@ EXECU=( .py .sh .rb .erb )
 ## INSTALL INSTRUCTIONS
 Simply run the script.  The script runs as redundant, starting from the directory in which the permissions_fix.sh file resides. Also make sure that the files.conf configuration file sits in the same directory as permissions_fix.sh.  
 
+Make any changes to any additional file extensions, desired permissions, etc all within the script!
+
+Enjoy!
+
 ```
 MORE INFO
 ```
